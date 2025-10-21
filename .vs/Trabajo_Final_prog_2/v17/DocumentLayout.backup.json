@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{4EC26CEC-49CC-48A4-B094-7ECC12C07BA6}|Trabajo_Final_prog_2\\Trabajo_Final_prog_2.csproj|c:\\users\\lucas\\onedrive\\desktop\\lucas\\programacion-20250925t145634z-1-001\\programacion\\trabajo_final_prog_2\\trabajo_final_prog_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EC26CEC-49CC-48A4-B094-7ECC12C07BA6}|Trabajo_Final_prog_2\\Trabajo_Final_prog_2.csproj|solutionrelative:trabajo_final_prog_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC26CEC-49CC-48A4-B094-7ECC12C07BA6}|Trabajo_Final_prog_2\\Trabajo_Final_prog_2.csproj|c:\\users\\lucas\\onedrive\\desktop\\lucas\\programacion-20250925t145634z-1-001\\programacion\\trabajo_final_prog_2\\trabajo_final_prog_2\\peliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC26CEC-49CC-48A4-B094-7ECC12C07BA6}|Trabajo_Final_prog_2\\Trabajo_Final_prog_2.csproj|solutionrelative:trabajo_final_prog_2\\peliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC26CEC-49CC-48A4-B094-7ECC12C07BA6}|Trabajo_Final_prog_2\\Trabajo_Final_prog_2.csproj|c:\\users\\lucas\\onedrive\\desktop\\lucas\\programacion-20250925t145634z-1-001\\programacion\\trabajo_final_prog_2\\trabajo_final_prog_2\\salas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC26CEC-49CC-48A4-B094-7ECC12C07BA6}|Trabajo_Final_prog_2\\Trabajo_Final_prog_2.csproj|solutionrelative:trabajo_final_prog_2\\salas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC26CEC-49CC-48A4-B094-7ECC12C07BA6}|Trabajo_Final_prog_2\\Trabajo_Final_prog_2.csproj|c:\\users\\lucas\\onedrive\\desktop\\lucas\\programacion-20250925t145634z-1-001\\programacion\\trabajo_final_prog_2\\trabajo_final_prog_2\\cine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC26CEC-49CC-48A4-B094-7ECC12C07BA6}|Trabajo_Final_prog_2\\Trabajo_Final_prog_2.csproj|solutionrelative:trabajo_final_prog_2\\cine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Salas.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\Lucas\\Programacion-20250925T145634Z-1-001\\Programacion\\Trabajo_Final_prog_2\\Trabajo_Final_prog_2\\Salas.cs",
+              "RelativeDocumentMoniker": "Trabajo_Final_prog_2\\Salas.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\Lucas\\Programacion-20250925T145634Z-1-001\\Programacion\\Trabajo_Final_prog_2\\Trabajo_Final_prog_2\\Salas.cs",
+              "RelativeToolTip": "Trabajo_Final_prog_2\\Salas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T02:38:15.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cine.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\Lucas\\Programacion-20250925T145634Z-1-001\\Programacion\\Trabajo_Final_prog_2\\Trabajo_Final_prog_2\\Cine.cs",
+              "RelativeDocumentMoniker": "Trabajo_Final_prog_2\\Cine.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\Lucas\\Programacion-20250925T145634Z-1-001\\Programacion\\Trabajo_Final_prog_2\\Trabajo_Final_prog_2\\Cine.cs",
+              "RelativeToolTip": "Trabajo_Final_prog_2\\Cine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T02:37:21.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Peliculas.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\Lucas\\Programacion-20250925T145634Z-1-001\\Programacion\\Trabajo_Final_prog_2\\Trabajo_Final_prog_2\\Peliculas.cs",
+              "RelativeDocumentMoniker": "Trabajo_Final_prog_2\\Peliculas.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\Lucas\\Programacion-20250925T145634Z-1-001\\Programacion\\Trabajo_Final_prog_2\\Trabajo_Final_prog_2\\Peliculas.cs",
+              "RelativeToolTip": "Trabajo_Final_prog_2\\Peliculas.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T01:32:06.192Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "Trabajo_Final_prog_2\\Program.cs",
               "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\Lucas\\Programacion-20250925T145634Z-1-001\\Programacion\\Trabajo_Final_prog_2\\Trabajo_Final_prog_2\\Program.cs",
               "RelativeToolTip": "Trabajo_Final_prog_2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T21:50:25.828Z",
               "EditorCaption": ""

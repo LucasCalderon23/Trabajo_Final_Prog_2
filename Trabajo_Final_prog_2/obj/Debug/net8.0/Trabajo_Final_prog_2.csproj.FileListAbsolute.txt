@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Desktop\Lucas\Programacion-20250925T145634Z-1-001\Programacion\Trabajo_Final_Prog_2\Trabajo_Final_prog_2\bin\Debug\net8.0\Trabajo_Final_prog_2.exe
+C:\Users\lucas\OneDrive\Desktop\Lucas\Programacion-20250925T145634Z-1-001\Programacion\Trabajo_Final_Prog_2\Trabajo_Final_prog_2\bin\Debug\net8.0\Trabajo_Final_prog_2.deps.json
+C:\Users\lucas\OneDrive\Desktop\Lucas\Programacion-20250925T145634Z-1-001\Programacion\Trabajo_Final_Prog_2\Trabajo_Final_prog_2\bin\Debug\net8.0\Trabajo_Final_prog_2.runtimeconfig.json
+C:\Users\lucas\OneDrive\Desktop\Lucas\Programacion-20250925T145634Z-1-001\Programacion\Trabajo_Final_Prog_2\Trabajo_Final_prog_2\bin\Debug\net8.0\Trabajo_Final_prog_2.dll
+C:\Users\lucas\OneDrive\Desktop\Lucas\Programacion-20250925T145634Z-1-001\Programacion\Trabajo_Final_Prog_2\Trabajo_Final_prog_2\bin\Debug\net8.0\Trabajo_Final_prog_2.pdb
+C:\Users\lucas\OneDrive\Desktop\Lucas\Programacion-20250925T145634Z-1-001\Programacion\Trabajo_Final_Prog_2\Trabajo_Final_prog_2\obj\Debug\net8.0\Trabajo_Final_prog_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Desktop\Lucas\Programacion-20250925T145634Z-1-001\Programacion\Trabajo_Final_Prog_2\Trabajo_Final_prog_2\obj\Debug\net8.0\Trabajo_Final_prog_2.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Desktop\Lucas\Programacion-20250925T145634Z-1-001\Programacion\Trabajo_Final_Prog_2\Trabajo_Final_prog_2\obj\Debug\net8.0\Trabajo_Final_prog_2.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Desktop\Lucas\Programacion-20250925T145634Z-1-001\Programacion\Trabajo_Final_Prog_2\Trabajo_Final_prog_2\obj\Debug\net8.0\Trabajo_Final_prog_2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Desktop\Lucas\Programacion-20250925T145634Z-1-001\Programacion\Trabajo_Final_Prog_2\Trabajo_Final_prog_2\obj\Debug\net8.0\Trabajo_Final_prog_2.sourcelink.json
+C:\Users\lucas\OneDrive\Desktop\Lucas\Programacion-20250925T145634Z-1-001\Programacion\Trabajo_Final_Prog_2\Trabajo_Final_prog_2\obj\Debug\net8.0\Trabajo_Final_prog_2.dll
+C:\Users\lucas\OneDrive\Desktop\Lucas\Programacion-20250925T145634Z-1-001\Programacion\Trabajo_Final_Prog_2\Trabajo_Final_prog_2\obj\Debug\net8.0\refint\Trabajo_Final_prog_2.dll
+C:\Users\lucas\OneDrive\Desktop\Lucas\Programacion-20250925T145634Z-1-001\Programacion\Trabajo_Final_Prog_2\Trabajo_Final_prog_2\obj\Debug\net8.0\Trabajo_Final_prog_2.pdb
+C:\Users\lucas\OneDrive\Desktop\Lucas\Programacion-20250925T145634Z-1-001\Programacion\Trabajo_Final_Prog_2\Trabajo_Final_prog_2\obj\Debug\net8.0\Trabajo_Final_prog_2.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Desktop\Lucas\Programacion-20250925T145634Z-1-001\Programacion\Trabajo_Final_Prog_2\Trabajo_Final_prog_2\obj\Debug\net8.0\ref\Trabajo_Final_prog_2.dll

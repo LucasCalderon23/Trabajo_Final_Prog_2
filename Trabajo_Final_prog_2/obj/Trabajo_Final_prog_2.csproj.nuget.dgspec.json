@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\OneDrive\\Desktop\\Lucas\\Programacion-20250925T145634Z-1-001\\Programacion\\Trabajo_Final_prog_2\\Trabajo_Final_prog_2\\Trabajo_Final_prog_2.csproj": {}
+    "C:\\Users\\lucas\\OneDrive\\Desktop\\Lucas\\Programacion-20250925T145634Z-1-001\\Programacion\\Trabajo_Final_Prog_2\\Trabajo_Final_prog_2\\Trabajo_Final_prog_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\OneDrive\\Desktop\\Lucas\\Programacion-20250925T145634Z-1-001\\Programacion\\Trabajo_Final_prog_2\\Trabajo_Final_prog_2\\Trabajo_Final_prog_2.csproj": {
+    "C:\\Users\\lucas\\OneDrive\\Desktop\\Lucas\\Programacion-20250925T145634Z-1-001\\Programacion\\Trabajo_Final_Prog_2\\Trabajo_Final_prog_2\\Trabajo_Final_prog_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Desktop\\Lucas\\Programacion-20250925T145634Z-1-001\\Programacion\\Trabajo_Final_prog_2\\Trabajo_Final_prog_2\\Trabajo_Final_prog_2.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Desktop\\Lucas\\Programacion-20250925T145634Z-1-001\\Programacion\\Trabajo_Final_Prog_2\\Trabajo_Final_prog_2\\Trabajo_Final_prog_2.csproj",
         "projectName": "Trabajo_Final_prog_2",
-        "projectPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\Lucas\\Programacion-20250925T145634Z-1-001\\Programacion\\Trabajo_Final_prog_2\\Trabajo_Final_prog_2\\Trabajo_Final_prog_2.csproj",
+        "projectPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\Lucas\\Programacion-20250925T145634Z-1-001\\Programacion\\Trabajo_Final_Prog_2\\Trabajo_Final_prog_2\\Trabajo_Final_prog_2.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\Lucas\\Programacion-20250925T145634Z-1-001\\Programacion\\Trabajo_Final_prog_2\\Trabajo_Final_prog_2\\obj\\",
         "projectStyle": "PackageReference",
