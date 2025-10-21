@@ -1,0 +1,14 @@
+C:\Users\tomim\Desktop\Trabajo_Final_Prog_2-main\Trabajo_Final_Prog_2-main\Trabajo_Final_prog_2\bin\Debug\net8.0\Trabajo_Final_prog_2.exe
+C:\Users\tomim\Desktop\Trabajo_Final_Prog_2-main\Trabajo_Final_Prog_2-main\Trabajo_Final_prog_2\bin\Debug\net8.0\Trabajo_Final_prog_2.deps.json
+C:\Users\tomim\Desktop\Trabajo_Final_Prog_2-main\Trabajo_Final_Prog_2-main\Trabajo_Final_prog_2\bin\Debug\net8.0\Trabajo_Final_prog_2.runtimeconfig.json
+C:\Users\tomim\Desktop\Trabajo_Final_Prog_2-main\Trabajo_Final_Prog_2-main\Trabajo_Final_prog_2\bin\Debug\net8.0\Trabajo_Final_prog_2.dll
+C:\Users\tomim\Desktop\Trabajo_Final_Prog_2-main\Trabajo_Final_Prog_2-main\Trabajo_Final_prog_2\bin\Debug\net8.0\Trabajo_Final_prog_2.pdb
+C:\Users\tomim\Desktop\Trabajo_Final_Prog_2-main\Trabajo_Final_Prog_2-main\Trabajo_Final_prog_2\obj\Debug\net8.0\Trabajo_Final_prog_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomim\Desktop\Trabajo_Final_Prog_2-main\Trabajo_Final_Prog_2-main\Trabajo_Final_prog_2\obj\Debug\net8.0\Trabajo_Final_prog_2.AssemblyInfoInputs.cache
+C:\Users\tomim\Desktop\Trabajo_Final_Prog_2-main\Trabajo_Final_Prog_2-main\Trabajo_Final_prog_2\obj\Debug\net8.0\Trabajo_Final_prog_2.AssemblyInfo.cs
+C:\Users\tomim\Desktop\Trabajo_Final_Prog_2-main\Trabajo_Final_Prog_2-main\Trabajo_Final_prog_2\obj\Debug\net8.0\Trabajo_Final_prog_2.csproj.CoreCompileInputs.cache
+C:\Users\tomim\Desktop\Trabajo_Final_Prog_2-main\Trabajo_Final_Prog_2-main\Trabajo_Final_prog_2\obj\Debug\net8.0\Trabajo_Final_prog_2.dll
+C:\Users\tomim\Desktop\Trabajo_Final_Prog_2-main\Trabajo_Final_Prog_2-main\Trabajo_Final_prog_2\obj\Debug\net8.0\refint\Trabajo_Final_prog_2.dll
+C:\Users\tomim\Desktop\Trabajo_Final_Prog_2-main\Trabajo_Final_Prog_2-main\Trabajo_Final_prog_2\obj\Debug\net8.0\Trabajo_Final_prog_2.pdb
+C:\Users\tomim\Desktop\Trabajo_Final_Prog_2-main\Trabajo_Final_Prog_2-main\Trabajo_Final_prog_2\obj\Debug\net8.0\Trabajo_Final_prog_2.genruntimeconfig.cache
+C:\Users\tomim\Desktop\Trabajo_Final_Prog_2-main\Trabajo_Final_Prog_2-main\Trabajo_Final_prog_2\obj\Debug\net8.0\ref\Trabajo_Final_prog_2.dll
