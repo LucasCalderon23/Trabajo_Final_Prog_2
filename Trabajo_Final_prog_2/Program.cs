@@ -1,5 +1,6 @@
-﻿using System.Text.Json;
+﻿using System;
 using System.Net.Http;
+using System.Text.Json;
 
 namespace Trabajo_Final_prog_2
 {
@@ -7,6 +8,9 @@ namespace Trabajo_Final_prog_2
     {
         static async Task Main(string[] args)
         {
+            Console.WriteLine("----------------");
+            Console.WriteLine("----- CINE -----");
+            Console.WriteLine("----------------");
             try
             {
                 HttpClient client = new HttpClient();
@@ -15,76 +19,80 @@ namespace Trabajo_Final_prog_2
 
                 Root data = JsonSerializer.Deserialize<Root>(pelis);
 
-                List<Pelicula> pelicula = data.Peliculas;
+                List<Pelicula> listaPeliculas = data.Peliculas;
 
-                foreach (Pelicula p in pelicula)
+                List<Salas> salas = new List<Salas>();
+
+                for (int i = 1; i <= 10; i++)
                 {
-                    Console.WriteLine($"ID: {p.Id}");
-                    Console.WriteLine($"Nombre: {p.Nombre}");
-                    Console.WriteLine($"Año: {p.Anio}");
-                    Console.WriteLine($"Duración: {p.Duracion}");
-                    Console.WriteLine($"Género: {p.Genero}");
-                    Console.WriteLine($"Valoración: {p.Valoracion}");
-                    Console.WriteLine("----------------------");
+                    salas.Add(new Salas(i));
                 }
+
+                Random rnd = new Random();
+                foreach (var sala in salas)
+                {
+                    sala.peliculas = listaPeliculas
+                        .OrderBy(x => rnd.Next())  
+                        .Take(5)                   
+                        .ToList();
+                }
+                
+
+                Console.Write("Ingrese su nombre: ");
+                string nombre = Console.ReadLine();
+                while (nombre == string.Empty)
+                {
+                    Console.Write("Ingrese su nombre: ");
+                    nombre = Console.ReadLine();
+                }
+                Console.Clear();
+                Console.WriteLine($"¡Hola, {nombre}!");
+                Console.WriteLine("Elija la opcion que desea realizar");
+                Console.WriteLine(" 1- Ver cartelera por sala");
+                Console.WriteLine(" 2- Comprar entradas");
+                Console.WriteLine(" 0- SALIR");
+                string cadena = Console.ReadLine();
+                int opcion;
+                while (!int.TryParse(cadena, out opcion))
+                {
+                    Console.WriteLine("Dato ingresado de manera incorrecta!!!!");
+                    Console.WriteLine("Elija la opcion que desea realizar");
+                    cadena = Console.ReadLine();
+                }
+
+                
+
+                switch(opcion)
+                {
+                    case 1:
+                        foreach (var sala in salas)
+                        {
+                            Console.WriteLine($" Sala {sala.sala}");
+                            foreach (var peli in sala.peliculas)
+                            {
+                                Console.WriteLine($"   - {peli.Nombre} ({peli.Anio}) - {peli.Genero}");
+                            }
+                            Console.WriteLine("------------------------------");
+                        }
+                        break;
+
+                    case 2:
+                        
+                        break;
+                }
+                
+
+
             }
 
             catch (Exception ex)
             {
                 Console.WriteLine($"Se presento un error...{ex.Message}");
             }
-           
 
 
-            //Console.WriteLine("-----------------------------------");
-            //Console.WriteLine("***** BIENVENIDO A UTNCINEMA *****");
-            //Console.WriteLine("-----------------------------------");
-            //int opcion;
-            //Console.WriteLine("Ingrese el Genero que desea ver: ");
-            //Console.WriteLine("1- ACCION.");
-            //Console.WriteLine("2- DRAMA.");
-            //Console.WriteLine("3- COMEDIA.");
-            //Console.WriteLine("4- THRILLER.");
-            //Console.WriteLine("5- TERROR.");
-            //string aux = Console.ReadLine();
-            //while (!int.TryParse(aux, out opcion))
-            //{
-            //    Console.WriteLine("OPCION INCORRECTA!!! INGRESE NUEVAMENTE...");
-            //    Console.Write("Ingrese el Genero que desea ver: ");
-            //    aux = Console.ReadLine();
-            //}
-
-            //switch (opcion)
-            //{
-            //    case 1:
-            //        //Accion
-            //        Console.WriteLine("#### GENERO ACCION ####");
-            //        break;
-
-            //    case 2:
-            //        //Drama
-            //        Console.WriteLine("#### GENERO DRAMA ####");
-            //        break;
-
-            //    case 3:
-            //        //Comedia
-            //        Console.WriteLine("#### GENERO COMEDIA ####");
-            //        break;
-
-            //    case 4:
-            //        //Thriller
-            //        Console.WriteLine("#### GENERO THRILLER ####");
-            //        break;
-
-            //    case 5:
-            //        //Terror
-            //        Console.WriteLine("#### GENERO TERROR ####");
-            //        break;
-            //    default:
-            //        Console.WriteLine("Opcion incorrecta");
-            //        break;
-            //}
-            //Console.WriteLine("GRACIAS POR VENIR, VUELVA PRONTO ;)");
+            
+            
             Console.ReadKey();
         }
     }
